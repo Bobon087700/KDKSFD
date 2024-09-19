@@ -1,0 +1,15 @@
+C:\Git\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Git\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Git\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Git\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Git\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Git\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Git\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Github ( калькулятор)\Plus\Mdk-Plus\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Github ( калькулятор)\Plus\Mdk-Plus\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Github ( калькулятор)\Plus\Mdk-Plus\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Github ( калькулятор)\Plus\Mdk-Plus\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Github ( калькулятор)\Plus\Mdk-Plus\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Github ( калькулятор)\Plus\Mdk-Plus\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Github ( калькулятор)\Plus\Mdk-Plus\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Github ( калькулятор)\Plus\Mdk-Plus\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
